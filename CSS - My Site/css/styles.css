@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+h1 {
+  width: 10%;
+  margin: 0 auto 0 auto;
+  font-family: 'Italianno', cursive;
+}
+.topContainer {
+  background-color: #99C4C8;
+  position: relative;
+  padding-top: 100px;
+}
+.middleContainer {
+  background-color: green;
+  height: 200px;
+  width: 200px;
+}
+.bottomContainer {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+.pro {
+  text-decoration: underline;
+}
+.bottom-cloud {
+  position: absolute;
+left: 300px;
+bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
